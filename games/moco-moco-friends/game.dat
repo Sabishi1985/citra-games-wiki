@@ -1,0 +1,9 @@
+title = "Moco Moco Friends"
+description = "Moco Moco Friends is a RPG by Aksys Games, based around building your skills and amass loads of cuddly monsters to become the ultimate Plushkin Master."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000017F200"
+region = "usa"
+release_date = "2015-11-17"
